@@ -17,7 +17,7 @@ A visually appealing and interactive **Chorot 2.0** clone built using **HTML, CS
 
 ## 🚀 Live Demo
 
-Check out the live project here: [Live Demo]()
+Check out the live project here: [Live Demo](https://pritivish07025.github.io/chorot-2.0-project-clone/)
 
 ## 📁 Project Setup
 
